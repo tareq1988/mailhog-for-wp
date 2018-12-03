@@ -3,7 +3,7 @@ Contributors: tareq1988
 Donate link: https://tareq.co/donate/
 Tags: smtp, mail, developer, email
 Requires at least: 4.0
-Tested up to: 4.8
+Tested up to: 5.0
 Stable tag: trunk
 Requires PHP: 5.3
 License: GPLv2 or later
@@ -35,9 +35,13 @@ MailHog is an email testing tool for developers.
 
 == Screenshots ==
 
+Nothing here yet.
 
 == Changelog ==
 
+= v1.0 - December 3rd, 2018 =
+
+ * Initial release.
 
 == Upgrade Notice ==
 
