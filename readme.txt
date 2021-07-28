@@ -3,7 +3,7 @@ Contributors: tareq1988
 Donate link: https://tareq.co/donate/
 Tags: smtp, wp mail smtp, wordpress smtp, mail, mailer, phpmailer, wp_mail, email, wp smtp
 Requires at least: 4.0
-Tested up to: 5.5
+Tested up to: 5.8
 Stable tag: trunk
 Requires PHP: 5.3
 License: GPLv2 or later
@@ -38,6 +38,10 @@ MailHog is an email testing tool for developers.
 Nothing here yet.
 
 == Changelog ==
+
+= v1.0.1 - Jul 28th, 2021 =
+
+ * WordPress 5.8 compatibility
 
 = v1.0 - December 3rd, 2018 =
 
